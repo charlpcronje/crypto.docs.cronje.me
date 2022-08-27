@@ -4,6 +4,7 @@ url: https://crypto.docs.CRONje.ME
 branding:
   title: Crypto, Mining  and Web 3.0 | CRONje.MEV Docs
   label: CRYPTO
+favicon: ./favicon.png
 links:
 - text: Dashboard
   link: https://nav.cronje.me
