@@ -2,7 +2,7 @@ input: src
 output: public
 url: https://crypto.docs.CRONje.ME
 branding:
-  title: Crypto, Mining  and Web 3.0 | CRONje.MEV Docs
+  title: CRONje.ME Docs | Crypto, Mining and Web 3.0
   label: CRYPTO
 favicon: ./favicon.png
 links:
